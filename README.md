@@ -1,12 +1,13 @@
 Sistema de cadastro no Tkinter
-Este projeto exemplifica um sistema de cadastro de pessoas, usando Tkinter para a interface gráfica e SQLite como banco de dados:
+
+Este prototipo de um sistema de cadastro de pessoas, usando Tkinter para a interface gráfica e SQLite como banco de dados:
 
 Descrição
   A aplicação permite as seguintes funcionalidades:
 
 Como rodar a aplicação:
 
-  baixe a pasta com os arquivos e execute o arquivo main na IDE de sua escolha
+  Baixe a pasta com os arquivos e execute o arquivo main na IDE de sua escolha
   Execute o arquivo main 
 
 Requisitos:
@@ -15,12 +16,16 @@ Requisitos:
 
 Funcionalidades do codigo:
 
-  criar um novo cadastro de pessoa
-  editar cadastros realizados
-  deletar cadastros por um sistema de busca de CPF
-  vizualizar o historico de atividades feitas pelo programa
+  Criar um novo cadastro de pessoa
+  
+  Editar cadastros realizados
+  
+  Deletar cadastros por um sistema de busca de CPF
+  
+  Vizualizar o historico de atividades feitas pelo programa
 
 Estrutura do Projeto
+
 O projeto é composto por 8 arquivos:
 
   main é responsavel pela criação da janela príncipal onde todo o programa se estrutura ao redor
